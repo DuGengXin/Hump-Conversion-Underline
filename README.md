@@ -1,0 +1,24 @@
+# 一个驼峰转下划线的demo
+### 测试用例
+- myFirstName
+  - my_first_name
+- OnlineUsers 
+  - online_users
+- Address
+  - address
+- validHTTPRequest
+  - valid_http_request
+- SpringMVC 
+  - spring_mvc
+- userInfo
+  - user_info
+- SpringCloud
+  - spring_cloud
+- uniqueIdentifier
+  - unique_identifier
+- DevelopmentGuide
+  - development_guide
+- className123
+  - class_name123
+- PutAApple
+  - put_a_apple
